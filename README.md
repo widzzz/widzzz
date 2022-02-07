@@ -1,5 +1,6 @@
 ### Stats
-<img width="53.8%" src="https://github-readme-stats.vercel.app/api?username=widzzz"/><img width="46.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widzzz&count_private=true"/>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=widzzz&show_icons=true&include_all_commits=true" alt="Widzzz's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widzzz&count_private=true" /></a> |
+| ------------- | ------------- |
 
 <!--
 **widzzz/widzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
