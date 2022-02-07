@@ -1,6 +1,7 @@
 ### Stats
-![widzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=widzzz)
+![widzzz's GitHub stats]<img width="46.2%" src="https://github-readme-stats.vercel.app/api?username=widzzz"/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=widzzz&layout=compact)
+
 <!--
 **widzzz/widzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
