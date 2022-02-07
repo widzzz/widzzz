@@ -1,5 +1,5 @@
 ### Stats
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=widzzz&show_icons=true&theme=github_dark" alt="Widzzz's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widzzz&count_private=true&theme=github_dark&layout=compact" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=widzzz&show_icons=true&theme=github_dark" alt="widzzz's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widzzz&count_private=true&theme=github_dark&layout=compact" /></a> |
 | ------------- | ------------- |
 
 <!--
