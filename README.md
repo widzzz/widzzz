@@ -1,4 +1,5 @@
-### Hi there 👋
+### Stats
+[![widzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=widzzz)](https://github.com anuraghazra/github-readme-stats)
 
 <!--
 **widzzz/widzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
